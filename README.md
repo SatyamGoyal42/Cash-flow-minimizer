@@ -21,8 +21,8 @@ For example, say we have these following people.
 
 
 
-| *Debtor* | *Creditor*     | *Amount*                |
-| :---------- :------- | :------------------------- |
+|  *Debtor* | *Creditor*     | *Amount*                |
+| :---------- |:------- | :------------------------- |
 | Satyam | Bhoomi | 500 |
 | Rijul | Saket | 100 |
 | Saket | Anubha | 435 |
