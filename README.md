@@ -77,6 +77,7 @@ This system is entirely menu driven. So, when you execute the C++ application, i
 
 #### Here is the execution of our current example.
 
+![Readme snip](https://github.com/SatyamGoyal42/Cash-flow-minimizer/assets/134623961/7c44bb6b-b8f6-4faf-8735-d3f31a8e9162)
 
 
 
